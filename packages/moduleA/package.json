@@ -1,5 +1,5 @@
 {
-  "name": "modulea",
+  "name": "modulea-yhyh",
   "version": "1.0.1",
   "description": "",
   "main": "index.js",
@@ -11,5 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "lodash": "^4.17.21"
-  }
+  },
+  "gitHead": "6366f7d26f4d4984b3e51af606c3ce5d3fd1f5c1"
 }
