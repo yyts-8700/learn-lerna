@@ -10,6 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "jquery": "^3.6.3",
     "lodash": "^4.17.21"
   },
   "gitHead": "6366f7d26f4d4984b3e51af606c3ce5d3fd1f5c1"
