@@ -12,7 +12,8 @@
   "dependencies": {
     "babel-core": "^6.26.3",
     "jquery": "^3.6.3",
-    "lodash": "^4.17.21"
+    "lodash": "^4.17.21",
+    "moduleb-yhyh": "^1.0.4"
   },
   "gitHead": "6366f7d26f4d4984b3e51af606c3ce5d3fd1f5c1"
 }
